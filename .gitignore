@@ -1,0 +1,12 @@
+# Module directpry
+**/.terraform
+
+.idea
+*.iml
+
+# COmpiled files
+**/*.tfstate
+**/*.tfstate.backup
+**/*.terraform.tfstate*
+**/*.terraform.lock.hcl
+**/*.terraform.lock.hcl
